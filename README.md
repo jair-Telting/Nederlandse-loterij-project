@@ -11,5 +11,4 @@ Small Vue 3 + Vite demo app that implements an interactive 100×100 prize grid (
 - Lightweight styling with responsive banner strip
 
 
-
-
+Go to https://jair-telting.github.io/Nederlandse-loterij-project/ to access
